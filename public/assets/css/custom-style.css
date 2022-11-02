@@ -1,0 +1,45 @@
+/*your custom css goes here*/
+.fb_dialog_content iframe {
+    bottom: 60px !important ;
+}
+.badge-primary {
+    background-color: #0083C5 !important;
+}
+.btn-primary, .btn-soft-primary:hover, .btn-outline-primary:hover {
+    background-color: #0083C5 !important;
+    border-color: #0083C5 !important;
+}
+.aiz-p-hov-icon a:hover {
+    background: #0083C5 !important;
+}
+.aiz-range-slider .noUi-connect {
+    background: #0083C5 !important;
+}
+.dropdown-item.active, .dropdown-item:hover, .dropdown-item:active {
+    background-color: #0083C5 !important;
+}
+.bg-primary {
+    background-color: #0083C5 !important;
+}
+
+/*responsive*/
+
+@media screen and (min-width: 260px) {
+    
+   .fb_dialog_content iframe {
+    bottom: 76px !important;
+} 
+    
+}
+
+@media screen and (min-width: 480px) {
+    
+   .fb_dialog_content iframe {
+    bottom: 80px !important;
+} 
+    
+}
+
+
+   
+    
